@@ -65,6 +65,44 @@ export const DATA = {
       },
     },
   },
+  image: [
+    {
+      imageUrl: "/image/01.JPG",
+      idx: "Prabin 01",
+    },
+    {
+      imageUrl: "/image/02.jpg",
+      idx: "Prabin 02",
+    },
+    {
+      imageUrl: "/image/03.jpg",
+      idx: "Prabin 03",
+    },
+    {
+      imageUrl: "/image/04.JPG",
+      idx: "Prabin 04",
+    },
+    {
+      imageUrl: "/image/05.JPG",
+      idx: "Prabin 05",
+    },
+    {
+      imageUrl: "/image/06.JPG",
+      idx: "Prabin 06",
+    },
+    {
+      imageUrl: "/image/07.jpg",
+      idx: "Prabin 07",
+    },
+    {
+      imageUrl: "/image/08.jpg",
+      idx: "Prabin 08",
+    },
+    {
+      imageUrl: "/image/09.JPG",
+      idx: "Prabin 09",
+    },
+  ],
   work: [
     {
       company: "Black Sheep",
