@@ -10,13 +10,6 @@ import Markdown from "react-markdown";
 
 const BLUR_FADE_DELAY = 0.04;
 
-const images = Array.from({ length: 9 }, (_, i) => {
-  const isLandscape = i % 2 === 0;
-  const width = isLandscape ? 800 : 600;
-  const height = isLandscape ? 600 : 800;
-  return `https://picsum.photos/seed/${i + 1}/${width}/${height}`;
-});
-
 export default function Page() {
   return (
     <main className="flex flex-col min-h-[100dvh] space-y-10">
@@ -57,12 +50,12 @@ export default function Page() {
       </section>
       <section id="photos">
         <div className="columns-2 gap-4 sm:columns-3">
-          {images.map((imageUrl, idx) => (
-            <BlurFade key={imageUrl} delay={0.25 + idx * 0.05} inView>
-              <img
+          {DATA.image.map((image, id) => (
+            <BlurFade key={image.imageUrl} delay={BLUR_FADE_DELAY * 6 + id * 0.05}>
+                  <img
                 className="mb-4 size-full rounded-lg object-contain"
-                src={imageUrl}
-                alt={`Random stock image ${idx + 1}`}
+                src={image.imageUrl}
+                alt={image.idx}
               />
             </BlurFade>
           ))}
