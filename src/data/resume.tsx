@@ -116,17 +116,29 @@ export const DATA = {
     //   description:
     //     "As a Junior Web Developer, I contribute to the design, coding, and maintenance of websites, gaining hands-on experience in front-end and back-end technologies while supporting team objectives with a passion for continuous learning and growth.",
     // },
+    // {
+    //   company: "Chhito Connect",
+    //   badges: [],
+    //   href: "https://chhitoconnect.com",
+    //   location: "Remote",
+    //   title: "Junior Database Manager",
+    //   logoUrl: "/chitto_connect.png",
+    //   start: "Jan 2023",
+    //   end: "Aug 2024",
+    //   description:
+    //     "Junior Database Manager with strong skills in database design, maintenance, and query optimization. Dedicated to ensuring data integrity and efficiency while supporting organizational goals through effective database management practices.",
+    // },
     {
-      company: "Chhito Connect",
+      company: "Tech Zone Nepal",
       badges: [],
-      href: "https://chhitoconnect.com",
+      href: "https://techzonenepal.com",
       location: "Remote",
-      title: "Junior Database Manager",
-      logoUrl: "/chitto_connect.png",
+      title: "Junior Web Developer",
+      logoUrl: "/chitto_connec.png",
       start: "Jan 2023",
       end: "Aug 2024",
       description:
-        "Junior Database Manager with strong skills in database design, maintenance, and query optimization. Dedicated to ensuring data integrity and efficiency while supporting organizational goals through effective database management practices.",
+        "Junior Web Developer with strong skills in website design, maintenance, and query optimization. Dedicated to ensuring data integrity and efficiency while supporting organizational goals through effective database management practices.",
     },
   ],
   education: [
