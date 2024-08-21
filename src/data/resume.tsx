@@ -124,7 +124,7 @@ export const DATA = {
       title: "Junior Database Manager",
       logoUrl: "/chitto_connect.png",
       start: "Jan 2023",
-      end: "Apr 2024",
+      end: "Aug 2024",
       description:
         "Junior Database Manager with strong skills in database design, maintenance, and query optimization. Dedicated to ensuring data integrity and efficiency while supporting organizational goals through effective database management practices.",
     },
