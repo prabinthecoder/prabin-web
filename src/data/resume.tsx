@@ -104,18 +104,18 @@ export const DATA = {
     },
   ],
   work: [
-    {
-      company: "Black Sheep",
-      href: "https://blacksheep.com.np",
-      badges: [],
-      location: "Remote",
-      title: "Junior Web Developer",
-      logoUrl: "/black_sheep.png",
-      start: "May 2022",
-      end: "Dec 2022",
-      description:
-        "As a Junior Web Developer, I contribute to the design, coding, and maintenance of websites, gaining hands-on experience in front-end and back-end technologies while supporting team objectives with a passion for continuous learning and growth.",
-    },
+    // {
+    //   company: "Black Sheep",
+    //   href: "https://blacksheep.com.np",
+    //   badges: [],
+    //   location: "Remote",
+    //   title: "Junior Web Developer",
+    //   logoUrl: "/black_sheep.png",
+    //   start: "May 2022",
+    //   end: "Dec 2022",
+    //   description:
+    //     "As a Junior Web Developer, I contribute to the design, coding, and maintenance of websites, gaining hands-on experience in front-end and back-end technologies while supporting team objectives with a passion for continuous learning and growth.",
+    // },
     {
       company: "Chhito Connect",
       badges: [],
