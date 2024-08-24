@@ -8,9 +8,9 @@ export const DATA = {
   location: "Kathmandu Nepal, NP",
   locationLink: "https://www.google.com/maps/place/kathmandu",
   description:
-    "Cyber Security turned Entrepreneur. I love building things and helping people. Very active on Twitter and YouTube.",
+    "Data Analyst turned Entrepreneur. I love building things and helping people. Very active on Twitter and YouTube.",
   summary:
-    "I am a passionate learner with a big goal to become a cybersecurity expert. With 2 year of experience in [Web Development](#/), I am dedicated to mastering the intricacies of cybersecurity, aiming to safeguard digital environments and mitigate risks through proactive measures. [I actively participate in hackathons and cybersecurity competitions](/hackathon) to apply my skills in real-world scenarios, fostering innovative solutions and staying abreast of industry trends.",
+    "I am a passionate learner with a big goal to become a data analyst. With a strong background in computer science and hands-on experience in [programming and data projects](#/), I am dedicated to mastering the intricacies of [data analysis](#/) to uncover insights and drive informed decision-making. [I actively work on data analysis projects and participate in data-related competitions](/hackathon) to apply my skills in real-world scenarios, fostering innovative solutions and staying abreast of industry trends.",
   avatarUrl: "/me.png",
   skills: [
     "React",
