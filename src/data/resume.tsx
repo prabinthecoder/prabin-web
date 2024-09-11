@@ -8,9 +8,9 @@ export const DATA = {
   location: "Kathmandu Nepal, NP",
   locationLink: "https://www.google.com/maps/place/kathmandu",
   description:
-    "Data Analyst turned Entrepreneur. I love building things and helping people. Very active on Twitter and YouTube.",
+    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter and YouTube.",
   summary:
-    "I am a passionate learner with a big goal to become a data analyst. With a strong background in computer science and hands-on experience in [programming and data projects](#/), I am dedicated to mastering the intricacies of [data analysis](#/) to uncover insights and drive informed decision-making. [I actively work on data analysis projects and participate in data-related competitions](/hackathon) to apply my skills in real-world scenarios, fostering innovative solutions and staying abreast of industry trends.",
+    "I am a passionate learner with a big goal to become a Software Engineer. With a strong background in computer science and hands-on experience in [programming and software projects](#/), I am dedicated to mastering the intricacies of [Software Engineer](#/) to uncover insights and drive informed decision-making. [I actively work on software developing projects and participate in software-related competitions](/hackathon) to apply my skills in real-world scenarios, fostering innovative solutions and staying abreast of industry trends.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -136,7 +136,7 @@ export const DATA = {
       title: "Junior Web Developer",
       logoUrl: "/chitto_connec.png",
       start: "Jan 2023",
-      end: "Aug 2024",
+      end: "running",
       description:
         "Junior Web Developer with strong skills in website design, maintenance, and query optimization. Dedicated to ensuring data integrity and efficiency while supporting organizational goals through effective database management practices.",
     },
